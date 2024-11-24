@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Laverma GmbH
 description: Github Repository
+logo: /assets/img/laverma-gmbh.png
+show_downloads: true
